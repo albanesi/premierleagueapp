@@ -1,0 +1,14 @@
+C:\Users\alban\source\repos\Blyat23\Blyat23\bin\Debug\Blyat23.exe.config
+C:\Users\alban\source\repos\Blyat23\Blyat23\bin\Debug\Blyat23.exe
+C:\Users\alban\source\repos\Blyat23\Blyat23\bin\Debug\Blyat23.pdb
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.csprojAssemblyReference.cache
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.Form1.resources
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.Properties.Resources.resources
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.csproj.GenerateResource.cache
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.csproj.CoreCompileInputs.cache
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.exe
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.pdb
+C:\Users\alban\source\repos\Blyat23\Blyat23\bin\Debug\nunit.framework.dll
+C:\Users\alban\source\repos\Blyat23\Blyat23\bin\Debug\nunit.framework.pdb
+C:\Users\alban\source\repos\Blyat23\Blyat23\bin\Debug\nunit.framework.xml
+C:\Users\alban\source\repos\Blyat23\Blyat23\obj\Debug\Blyat23.csproj.CopyComplete

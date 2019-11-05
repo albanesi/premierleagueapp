@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alban\\source\\repos\\Blyat23\\NUnitTestProject1\\NUnitTestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alban\\source\\repos\\Blyat23\\Blyat23\\Blyat23.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alban\\source\\repos\\Blyat23\\Blyat23\\Blyat23.csproj",
+        "projectName": "Blyat23",
+        "projectPath": "C:\\Users\\alban\\source\\repos\\Blyat23\\Blyat23\\Blyat23.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\alban\\source\\repos\\Blyat23\\NUnitTestProject1\\NUnitTestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alban\\source\\repos\\Blyat23\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "projectName": "NUnitTestProject1",
+        "projectPath": "C:\\Users\\alban\\source\\repos\\Blyat23\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "packagesPath": "C:\\Users\\alban\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alban\\source\\repos\\Blyat23\\NUnitTestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\alban\\source\\repos\\Blyat23\\Blyat23\\Blyat23.csproj": {
+                "projectPath": "C:\\Users\\alban\\source\\repos\\Blyat23\\Blyat23\\Blyat23.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MiNET": {
+              "target": "Package",
+              "version": "[1.0.2040, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
